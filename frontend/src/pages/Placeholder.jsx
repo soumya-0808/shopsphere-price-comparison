@@ -1,0 +1,1 @@
+export default function Placeholder({title}){return <section className="empty"><div className="eyebrow">ShopSphere</div><h1>{title}</h1><p>This page is scaffolded for the next feature module.</p></section>}
